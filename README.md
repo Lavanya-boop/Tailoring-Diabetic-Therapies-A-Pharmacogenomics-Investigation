@@ -49,20 +49,20 @@ The project is being executed in three phases:
 
 ## Technologies Used
 
-- **Data Collection & Analysis:** [To be added]
-- **Backend:** [To be added]
-- **Frontend:** [To be added]
-- **Database:** [To be added]
-- **Testing Framework:** [To be added]
+- **Data Collection & Analysis** 
+- **Backend** 
+- **Frontend** 
+- **Database** 
+- **Testing Framework** 
 
 ## Project Team
 
-- **Srinath Kalepu:** 
-- **Raghunandhan Velagapudi:** 
-- **Vaibhav Thakur:**
-- **Lavanya Pragada:** 
-- **Lavanya Ranganathan:** 
-- **Kalyan Raj Chinigi:** 
+- **Srinath Kalepu** 
+- **Raghunandhan Velagapud** 
+- **Vaibhav Thakur**
+- **Lavanya Pragada** 
+- **Lavanya Ranganathan** 
+- **Kalyan Raj Chinigi** 
 
 ## Key Stakeholders
 
@@ -108,7 +108,4 @@ This is a private project with limited external contribution. Team members shoul
 - Google for sponsoring the project
 - [Other acknowledgements as appropriate]
 
-## Contact
 
-For questions or more information, please contact:
-- Project Manager: Srinath Kalepu
