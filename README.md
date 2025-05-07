@@ -57,12 +57,12 @@ The project is being executed in three phases:
 
 ## Project Team
 
-- **Srinath Kalepu:** Project Manager
-- **Raghunandhan Velagapudi:** [Role]
-- **Vaibhav Thakur:** [Role]
-- **Lavanya Pragada:** [Role]
-- **Lavanya Ranganathan:** [Role]
-- **Kalyan Raj Chinigi:** [Role]
+- **Srinath Kalepu:** 
+- **Raghunandhan Velagapudi:** 
+- **Vaibhav Thakur:**
+- **Lavanya Pragada:** 
+- **Lavanya Ranganathan:** 
+- **Kalyan Raj Chinigi:** 
 
 ## Key Stakeholders
 
